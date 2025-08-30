@@ -10,11 +10,13 @@ Generative AI applications.
 Generative AI impact of scaling in LLMs.
 
 ## Algorithm:
+
 1. Collect & preprocess data
 2. Train model on data patterns
 3. Generate new content from model
 4. Evaluate & improve output
 ## Output
+
 [Report on Foundational Concepts of Generative AI.pdf](https://github.com/user-attachments/files/22056309/Report.on.Foundational.Concepts.of.Generative.AI.pdf)
 
 ## Result
